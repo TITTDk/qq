@@ -16,7 +16,7 @@
 An Advanced Telegram Bot to Play Nonstop Radio/Music/YouTube Live in Channel or Group Voice Chats.
 
 This is also the source code of the bot which is being used for playing
-Radio in [AsmSafone](https://t.me/AsmSafone) Channel & Music in [AsmSupport](https://t.me/AsmSupport) Group.
+Radio in [Maria](https://t.me/MariaSource) Channel & Music in [Support](https://t.me/xTaim) Group.
 
 ## Special Features
 
